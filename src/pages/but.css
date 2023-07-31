@@ -1,0 +1,184 @@
+/* .ab{
+background:url("./image/313-3136106_windows-xp-plain-blue-wallpaper-electric-blue.jpg") ;
+width: 100%;
+height: 90vh;
+background-repeat: no-repeat;
+background-size: cover;
+overflow: hidden;
+} */
+.left{
+   margin-left: 9rem;
+  
+}
+.jo{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 1000px;
+    line-height: 600px;
+    font-size: 200px;
+    font-family:cursive;
+    color: #1742ce;
+}
+.footer{
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #4056A1;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    width: 10%;
+  }
+.but{
+    /*Change the width as much as you like, but make sure 
+    margin-left and margin-right + width = 100%*/
+    width:56.1%;
+    margin-left:17%;
+    margin-right:25%;
+    top: 10%;
+}
+.form{
+    padding: 1rem;
+   
+}
+body{
+    font-size: 14px;
+    line-height: 1.42;
+}
+.control{
+    margin-bottom: 0.5;
+}
+.control lable{
+    display: block;
+    font-weight: bold;
+}
+/* .reskin-body-view{
+   
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: px;
+    padding-left: 100px;
+  background-color: #ebeff1;
+  
+} */
+.content-container{
+    width: 180%;
+    max-width: 1124px;
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+}
+.bold{
+    font-size: 50px;
+    justify-content: center;
+    text-align: center;
+}
+.card{
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255,255,255);
+    display: block;
+    box-shadow: 0 1px 3px rgb(0 0 0/ 30%);
+    border-top-left-radius: 2px;
+    border-top-right-radius:2px ;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius:0px ;
+    color: #666F73;
+}
+.card > .content {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+.card .toolbar{
+    height: 0px;
+    border-bottom: 1px solid #e5e5e5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(229,229,229);
+}
+*{
+    box-sizing: border-box;
+    box-sizing: border-box;
+}
+.tool{
+    
+    font-size: 20px;
+}
+
+div{
+    display: block;
+}
+.card.toolbar > h4{
+    float: left;
+    margin: 0px;
+    padding: 10px 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.col-md-6{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-sm-6{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.imga{
+    z-index: 1;
+    position: relative;
+   position:fixed;
+  margin-left: 4rem;
+
+
+  
+}
+
+.d{
+    float:inherit;
+padding-left: -6rem; 
+padding-right: 1rem;   
+}
+.e{
+    float:inherit;
+padding-left: -6rem;    
+}
+.intro{
+    display: flex;
+    height: 10vh;
+    margin-top: 0rem;
+    margin-left: 1rem;
+}
+.i-left{
+    display: flex; 
+    position: relative;
+    flex: 1;
+    flex-direction: column;
+  
+  }
+  .i-right{
+    flex:1;
+    position: relative;
+    margin-left: 43rem;
+    margin-right: -9rem;
+    margin-top: 3rem;
+}
+.foter{
+    margin-top: 9rem;
+ 
+   
+}

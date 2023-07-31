@@ -1,0 +1,44 @@
+.imga{
+    z-index: 1;
+    position: relative;
+   position:fixed;
+  margin-left: 4rem;
+
+
+  
+}
+
+.d{
+    float:inherit;
+padding-left: -6rem; 
+padding-right: 1rem;   
+}
+.e{
+    float:inherit;
+padding-left: -6rem;    
+}
+.intro{
+    display: flex;
+    height: 10vh;
+    margin-top: 0rem;
+    margin-left: 1rem;
+}
+.i-left{
+    display: flex; 
+    position: relative;
+    flex: 1;
+    flex-direction: column;
+  
+  }
+  .i-right{
+    flex:1;
+    position: relative;
+    margin-left: 43rem;
+    margin-right: -9rem;
+    margin-top: 3rem;
+}
+.foter{
+    margin-top: 9rem;
+ 
+   
+}
